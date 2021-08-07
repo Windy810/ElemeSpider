@@ -1,0 +1,178 @@
+[
+    {
+        "domain": ".ele.me",
+        "expiry": 1643865473,
+        "httpOnly": false,
+        "name": "tfstk",
+        "path": "/",
+        "secure": false,
+        "value": "cpDPBg2KS1BXzL2B68weFUuz6NfRZgioxtr_Zj3T5WTwSkVlip_LmHr30ka9n7f.."
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1643865473,
+        "httpOnly": false,
+        "name": "l",
+        "path": "/",
+        "secure": false,
+        "value": "eBSeqrCVgL-PaD2QBOfwourza77OSIRAguPzaNbMiOCP_71M56YCB6hECXYHC3GOh6opR3Jg7Ec7BeYBYS4WfLwGhm8WYHkmn"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1659878272.430934,
+        "httpOnly": true,
+        "name": "USERID",
+        "path": "/",
+        "secure": true,
+        "value": "4810026826"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1659878272.430926,
+        "httpOnly": true,
+        "name": "SID",
+        "path": "/",
+        "secure": true,
+        "value": "KQAAAAEesy9K7AAGTQBfVBOs8OJQrosOXiOu2SEjjYsXu_kq48I9cRKh"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1628947072.430916,
+        "httpOnly": false,
+        "name": "unb",
+        "path": "/",
+        "secure": true,
+        "value": "2205936855488"
+    },
+    {
+        "domain": ".ele.me",
+        "httpOnly": false,
+        "name": "csg",
+        "path": "/",
+        "secure": true,
+        "value": "2c05d338"
+    },
+    {
+        "domain": ".ele.me",
+        "httpOnly": true,
+        "name": "cookie2",
+        "path": "/",
+        "secure": true,
+        "value": "14133959021d41bc0484fd6f6ab39a79"
+    },
+    {
+        "domain": ".ele.me",
+        "httpOnly": true,
+        "name": "_samesite_flag_",
+        "path": "/",
+        "secure": true,
+        "value": "true"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1643865473,
+        "httpOnly": false,
+        "name": "isg",
+        "path": "/",
+        "secure": true,
+        "value": "BLy8zD2j8UGFy8UdUUU9P7iIjVNutWDfRPiUUZY9yKeKYVzrvsUwbzJTRYMZKZg3"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1659849474.35583,
+        "httpOnly": true,
+        "name": "x5check_ele",
+        "path": "/",
+        "secure": false,
+        "value": "VbpcrkLnAG4fkr0lszEEJXnN7QxQ7bD0Q3OOC7aQXaI%3D"
+    },
+    {
+        "domain": ".ele.me",
+        "httpOnly": false,
+        "name": "_tb_token_",
+        "path": "/",
+        "secure": true,
+        "value": "e3033b5ebbe6b"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1659878272.430894,
+        "httpOnly": true,
+        "name": "t_eleuc4",
+        "path": "/",
+        "secure": true,
+        "value": "id4=0%40BA%2FvuHCrrRj%2BqQmqsr0TJZMhpYT0gH%2FsfrHBzA%3D%3D"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1628399849,
+        "httpOnly": false,
+        "name": "xlly_s",
+        "path": "/",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 4070880000,
+        "httpOnly": false,
+        "name": "ubt_ssid",
+        "path": "/",
+        "secure": false,
+        "value": "z7iyyi3ulnfjdkkhxzil5uzdissqoiwn_2021-08-07"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1628947072.430903,
+        "httpOnly": false,
+        "name": "munb",
+        "path": "/",
+        "secure": true,
+        "value": "2205936855488"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1659878272.430941,
+        "httpOnly": false,
+        "name": "UTUSER",
+        "path": "/",
+        "secure": true,
+        "value": "4810026826"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 1935928650.459585,
+        "httpOnly": false,
+        "name": "t",
+        "path": "/",
+        "secure": true,
+        "value": "7637dec5874f0f8bd9cc147ef2bcec8f"
+    },
+    {
+        "domain": ".ele.me",
+        "expiry": 2259033449,
+        "httpOnly": false,
+        "name": "cna",
+        "path": "/",
+        "secure": true,
+        "value": "aAWVGdq23G8CAXjkfJXiU9Wh"
+    },
+    {
+        "domain": ".h5.ele.me",
+        "expiry": 4070880000,
+        "httpOnly": false,
+        "name": "perf_ssid",
+        "path": "/",
+        "secure": false,
+        "value": "6cy45kek3zuh3ci2njb6fk4a6qn14mor_2021-08-07"
+    },
+    {
+        "domain": "h5.ele.me",
+        "expiry": 1643865448.820461,
+        "httpOnly": false,
+        "name": "__wpkreporterwid_",
+        "path": "/shop",
+        "secure": false,
+        "value": "b574c9f7-5d90-4efc-154a-583bf4968f2c"
+    }
+]
