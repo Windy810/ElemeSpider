@@ -10,7 +10,7 @@ import pandas as pd
 
 def json_to_excel():
     # 获取json数据
-    with open("./cbd.json", "r") as f:
+    with open("./data/cbd.json", "r") as f:
         load_data = json.load(f)
 
     # 定义商品类型及名字、描述、主要原料等
@@ -39,4 +39,4 @@ def json_to_excel():
         # 更改dataframe列名称
         result.columns = ['所属类别', '商品名', '主要原料']
         # 保存为excel文件
-        result.to_excel(r"./cbd.xlsx", index=None)
+        result.to_excel(r"./data/cbd.xlsx", index=None)

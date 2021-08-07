@@ -26,5 +26,5 @@ def merchant_spider(merchantID, mycookie):
     response = requests.get(url, headers=header, cookies=cookie)
 
     # 将获取的值写入文件
-    with open('cbd.json', 'w') as f:
+    with open('./data/cbd.json', 'w') as f:
         f.write(json.dumps(response.json(), ensure_ascii=False))

@@ -79,12 +79,12 @@ def login_and_cookie_get():
     dictCookies=driver.get_cookies()
     #json字符串编码
     jsonCookies=json.dumps(dictCookies)
-    with open('cookies.json','w')as f:
+    with open('./data/cookies.json','w')as f:
         f.write(jsonCookies)
     print('cookie加载完毕')
 
 def cookie_process():
-    with open("./cookies.json","r") as f:
+    with open("./data/cookies.json","r") as f:
         load_data = json.load(f)
     for i in load_data:
         if(i["name"]=="SID"):
