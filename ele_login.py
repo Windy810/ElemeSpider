@@ -20,8 +20,8 @@ def login_and_cookie_get():
     # 反反爬虫：掩盖selenium浏览器指纹，可在控制台通过window.navigator.webdriver查看得false
     chrome_options.add_experimental_option('excludeSwitches', ['enable-automation'])
     # chrome升级至v59以后，可用如下headless的方式使得不显示浏览器界面
-    chrome_options.add_argument('--headless')
-    chrome_options.add_argument('--disable-gpu')
+    # chrome_options.add_argument('--headless')
+    # chrome_options.add_argument('--disable-gpu')
     driver = webdriver.Chrome(chrome_options=chrome_options)
 
     # 隐式等待
