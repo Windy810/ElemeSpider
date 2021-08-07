@@ -15,10 +15,9 @@ if __name__=="__main__":
 
     # 手动输入商家ID
     # ID格式为：E11239979582907458257
-    id = input("请输入商家ID：")
+    inputid = input("请输入商家ID：")
     # 爬取信息
-    merchant_spider.merchant_spider(id,mycookie)
+    merchant_spider.merchant_spider(inputid,mycookie)
 
     # 将爬取数据处理为excel格式
     data_process.json_to_excel()
-
