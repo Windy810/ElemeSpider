@@ -1,5 +1,9 @@
 # 饿了么商品信息爬虫
 
+## 编写说明
+
+详细编写及演示过程见博客：[饿了么爬虫](https://windy810.github.io/blog/2021-08-07-eleme/)
+
 ## 代码说明
 
 1. 主目录下的脚本用于在已知[商家数据api名称](https://github.com/Windy810/ElemeSpider/blob/master/img/dataapi1.png)的情况下（如样例中为batch_shop），才能正常获取，如能找到其他类型商户的api，可以直接对url进行修改
